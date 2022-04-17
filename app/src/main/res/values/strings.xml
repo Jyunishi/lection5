@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lection5</string>
+    <string name="buttonName">Big Button</string>
 </resources>
